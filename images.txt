@@ -1,1 +1,1 @@
-kxhubs/javsp
+kxhubs/javsp:0.3
